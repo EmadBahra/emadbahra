@@ -1,7 +1,6 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
-	[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 	
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70404&center=true&vCenter=true&lines=I+am+a+power+electronics+engineer)](https://git.io/typing-svg)
 <p>
