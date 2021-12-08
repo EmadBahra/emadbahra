@@ -2,9 +2,7 @@
 <p align='center'>
 </p>
 	
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70404&center=true&vCenter=true&multiline=true&lines=I+am+a+power+electronics+engineer;you+can+contact+me++on+my+LinkedIn)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70404&center=true&vCenter=true&multiline=true&height=100&lines=I+am+a+power+electronics+engineer;you+can+contact+me++on+my+LinkedIn)](https://git.io/typing-svg)
    <a href="https://www.linkedin.com/in/emadbahra/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
