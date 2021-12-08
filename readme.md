@@ -35,10 +35,10 @@
 <a href="https://www.kicad.com/">
 	<img alt="kicad" src="https://img.shields.io/badge/Ki-KiCAD-orange?style=for-the-badge&logo=Ki&logoColor=white">
 	</a>
-
-	<a href="https://www.Altium.com/">
-	<img alt="kicad" src="https://img.shields.io/badge/AL-Altium-black?style=for-the-badge&logo=AL&logoColor=white">
+<a href="https://www.altium.com/">
+	<img alt="kicad" src="https://img.shields.io/badge/Ki-altium-orange?style=for-the-badge&logo=Ki&logoColor=white">
 	</a>
+
 <h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
 <details> 
