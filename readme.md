@@ -1,14 +1,9 @@
-[![trophy](https://github-profile-trophy.vercel.app/?hidengach=ryo-ma&theme=onedark)](https://github.com/hidengach/github-profile-trophy)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hidengach)](https://git.io/streak-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hidengach)](https://github.com/hidengach/github-readme-stats)
-
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+a+Computer+Science+engineer" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+an+Electrical Engineer;I'm+an+Electrical+engineer" /></a>
 </p>
 
    <a href="https://www.linkedin.com/in/aastha-jha-805001106/" target="_blank">
