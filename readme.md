@@ -36,7 +36,7 @@
 	<img alt="kicad" src="https://img.shields.io/badge/Ki-KiCAD-orange?style=for-the-badge&logo=Ki&logoColor=white">
 	</a>
 <a href="https://www.altium.com/">
-	<img alt="kicad" src="https://img.shields.io/badge/Ki-altium-orange?style=for-the-badge&logo=Ki&logoColor=white">
+	<img alt="kicad" src="https://img.shields.io/badge/Al-altium-orange?style=for-the-badge&logo=Altium&logoColor=white">
 	</a>
 
 <h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
