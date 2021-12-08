@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=hidengach)](https://github.com/hidengach/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?hidengach=ryo-ma&theme=onedark)](https://github.com/hidengach/github-profile-trophy)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hidengach)](https://github.com/hidengach/github-readme-stats)
 
