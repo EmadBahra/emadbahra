@@ -77,7 +77,7 @@
 ## Popular Projects
 <a href="https://github.com/EmadBahra/open-source-IGBT-gate-driver">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EmadBahra&repo=open-source-IGBT-gate-driver&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmadBahra&repo=open-source-IGBT-gate-driver&theme=onedark" />
 </a>  
 
 
