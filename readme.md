@@ -23,8 +23,8 @@
     <img alt="My SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
 
-   <a href="https://keras.io/" target="_blank">
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
+   <a href="https://www.sqlite.org/" target="_blank">
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   </a>
 
    <a href="https://numpy.org/" target="_blank">
