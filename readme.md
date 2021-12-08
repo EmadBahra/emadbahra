@@ -75,16 +75,13 @@
 <br/>
 
 ## Popular Projects
-<a href="https://github.com/aastha12/MDX-Food-Safety-Hackathon">
+<a href="https://github.com/EmadBahra/open-source-IGBT-gate-driver">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=MDX-Food-Safety-Hackathon&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EmadBahra&repo=open-source-IGBT-gate-driver&theme=onedark" />
 </a>  
 
 
-<a href="https://github.com/aastha12/Loan_Prediction">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=Loan_Prediction&theme=onedark" />
-</a> 
+
 
 ----------------------------------------------------------------------
 Credit: [Emad Bahra](https://www.linkedin.com/in/emadbahra/)
