@@ -15,16 +15,26 @@
 	<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">  
 	</a>
 
-   <a href="https://www.CPP.com" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> </a>
+   <a href="https://www.CPP.com" target="_blank">
+	   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+	</a>
 
-   <a href="https://www.mysql.com/" target="_blank"><img alt="My SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
+   <a href="https://www.mysql.com/" target="_blank">
+	   <img alt="My SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+	</a>
 
-   <a href="https://www.sqlite.org/" target="_blank"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+   <a href="https://www.sqlite.org/" target="_blank">
+	   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+	</a>
 
-   <a href="https://qt.io/" target="_blank"><img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"></a>
+   <a href="https://qt.io/" target="_blank">
+	   <img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
+	</a>
 
 
-<a href="https://www.kicad.com/"><img alt="kicad" src="https://img.shields.io/badge/Ki-KiCAD-orange"></a>
+<a href="https://www.kicad.com/">
+	<img alt="kicad" src="https://img.shields.io/badge/Ki-KiCAD-orange"><
+	/a>
 
 <h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
