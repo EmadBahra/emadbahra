@@ -32,7 +32,7 @@
 	</a>
 
 
-<a href="https://www.kicad.com/"target="_blank">
+<a href="https://www.kicad.com/">
 	<img alt="kicad" src="https://img.shields.io/badge/Ki-KiCAD-orange?style=for-the-badge&logo=Ki&logoColor=white">
 	</a>
 
