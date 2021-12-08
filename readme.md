@@ -46,7 +46,7 @@
 	
 	
 <a href="https://www.nxp.com/">
-<img alt="HC08" src="https://img.shields.io/badge/Assembly-yellow?style=for-the-badge&logoColor=lightgrey&logo=HC08">
+<img alt="HC08" src="https://img.shields.io/badge/HC08-Assembly-lightgrey">
 	</a>	
 	
 <h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
