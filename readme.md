@@ -31,7 +31,7 @@
 	   <img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
 	</a>
  <a href="https://www.python.org/" target="_blank">
-	   <img alt="Python" src="https://img.shields.io/badge/python-3.8-blue">
+	   <img alt="Python" src="https://img.shields.io/badge/python-3.8-blue?style=for-the-badge">
 	</a>
 
 <a href="https://www.kicad.com/">
