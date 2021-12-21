@@ -30,7 +30,9 @@
    <a href="https://qt.io/" target="_blank">
 	   <img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
 	</a>
-
+ <a href="https://www.python.org/" target="_blank">
+	   <img alt="Python" src="https://img.shields.io/badge/python-3.8-blue">
+	</a>
 
 <a href="https://www.kicad.com/">
 	<img alt="kicad" src="https://img.shields.io/badge/KiCAD-orange?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAIAAAB2A3HCAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAHQSURBVBgZZcFNaxNBGADgd97ZyWYTk6ZttK0VlmrVqrUVrWJ6CYL0YqM9CGIrKoJS8KbYi8de9Bd4iR78QDyIh4AILa3GonjSRo1KKUbTSGx6CCnZ7O68s+MP8HlY8eVYo/oOGAcALkzZqvccmN4+NPPhwQ5zSyS6dYQt3U8OXazxAFBAOb9op08s5y50JGJmfFfx1a1Er40+MVQQQgozqBdyIYDh8cdrpSIA70/f3qyXkQikBM2wtlIozT/VANr3jp5/8+V9FkUsNfXNkKQDpTXDv8v5ntGMBCAiDILRS19fZwcOiXaUBKSISDFhVt6+QAC0ohC2whakrnz/NHfDkARSSt/x9565+nvuSeHh3Y1CniECQGTfGFrdSEprxo1EYmn2cqzvYHf6rJ2ZNqIJw4olj53yXM8gZlbyz1d/zFcWn51eaDXXa52HT25LZRBho7opfTK8lpc8Pt4xMUmeW8zO7jw3U8rdI6eBjAVdwwpMJKml22yt/xm8mW38/KwZCxTF94yEu2zgQqoAfcW4YYWsNrey2t5/hKOI9w6A67bZg8pxSCG7cx07d19T0mGcozCV66AIATDQARqR5q9HrFr+uLaygFzAfwLl9+3P/AOHns54F0/s4AAAAABJRU5ErkJggg==">
